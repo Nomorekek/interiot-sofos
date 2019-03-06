@@ -1,6 +1,6 @@
 # interiot-sofos
 
-### SOFOS Experiment by [INFOLYSiS](www.infolysis.gr) for the INTER-IOT EU Project
+### SOFOS Experiment by [INFOLYSiS](https://www.infolysis.gr/) for the INTER-IOT EU Project
 
 * Interoperability with SDN/NFV of different protocols (HTTP, MQTT, COAP)
 * Web GUI featuring real-time IoT data presentation.
